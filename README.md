@@ -6,9 +6,9 @@
     <td width=20%>Used libraries</td>
   </tr>
         <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/16-steel_temperature">Steel temperature</a></td>
-    <td>In order to optimize production costs, the steelworks of So Hardening Steel Ltd. decided to reduce the electricity consumption during the steel processing phase. You will have to build a model that predicts the temperature of the steel.</td>
-    <td>Python, Pandas, Matplotlib, Seaborn, exploratory data analysis, data visualization, data preprocessing, math, machine learning, gradient boosting, numpy</td>
+    <td><a href="https://github.com/AlekseySilin/Data-analytics/blob/main/RU/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D1%80%D0%B5%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20AB-%D1%82%D0%B5%D1%81%D1%82%D0%B0/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D1%80%D0%B5%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20AB-%D1%82%D0%B5%D1%81%D1%82%D0%B0.ipynb">Интерпретация A/B тестов</a></td>
+    <td>Как аналитику крупного интернет-магазина, мне нужно приоритизировать представленные гипотезы для увеличения выручки, выбрать приоритетные, запустить АВ-тест и проанализировать его результаты.</td>
+    <td>pandas, numpy, matplotlib, scipy, seaborn</td>
   </tr>
       <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/15-age_recognition_by_photo">Age recognition by photo</a></td>
