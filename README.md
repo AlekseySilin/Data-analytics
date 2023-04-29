@@ -24,9 +24,10 @@
     <td>python, pandas, matplotlib, seaborn, plotly, numpy, folium, json</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/13-classifying-comments">Classifying comments</a></td>
-    <td>Speeded up the moderation of comments by automating their toxicity assessment. Trained the model to classify comments as toxic and non-toxic.</td>
-    <td>Pandas, Python, Machine Learning, NLTK, LightGBM, Sklearn</td>
+    <td><a href="https://github.com/AlekseySilin/Data-analytics/blob/main/RU/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%B5%D0%BA%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%94%D0%B7%D0%B5%D0%BD/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%B5%D0%BA%20%D0%94%D0%B7%D0%B5%D0%BD.pdf">Classifying comments</a></td>
+    <td>Презентация, в которой сделаны основные выводы по исследованию взаимодействия пользователей с ресурсом Яндекс.Дзен с графиками и дашбордом, сделанным с помощью Tableau. Получены ответы на вопросы, какие темы больше всего интересуют читателей и какие источники генерируют больше всего их генерируют.
+</td>
+    <td>tableau, python.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/12-predicting-taxi-trips">Predicting taxi trips</a></td>
