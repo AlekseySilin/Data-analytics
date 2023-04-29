@@ -11,9 +11,12 @@
     <td>pandas, numpy, matplotlib, scipy, seaborn</td>
   </tr>
       <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/15-age_recognition_by_photo">Age recognition by photo</a></td>
-    <td>Build a machine learning model that determines the approximate age of a person from a photo. There is a set of photos of people with an indication of their age.</td>
-    <td>Pandas, keras, Matplotlib, Seaborn, Computer Vision, Machine Learning</td>
+    <td><a href="https://github.com/AlekseySilin/Data-analytics/blob/main/RU/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%91%D0%94%20%D0%BA%D0%B8%D0%BD%D0%BE%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BA%D0%B8%D0%BD%D0%BE%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2_edited.ipynb">Исследование базы проката кинофильмов</a></td>
+    <td>Мне нужно изучить рынок российского кинопроката и выявить текущие тренды. Уделить внимание следует фильмам, которые получили 
+государственную поддержку. Попробовать ответить на вопрос, насколько такие фильмы интересны зрителю.
+Набор данных содержит информацию о прокатных удостоверениях, сборах и государственной поддержке фильмов, а также информацию с
+сайта КиноПоиск.</td>
+    <td>pandas, matplotlib, seaborn, python</td>
   </tr>
     <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/14-data_research_of_airline_company">Data Research of airline company</a></td>
