@@ -19,9 +19,10 @@
     <td>pandas, matplotlib, seaborn, python</td>
   </tr>
     <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/14-data_research_of_airline_company">Data Research of airline company</a></td>
-    <td>Perform uploads and preparation of airline data using SQL, test the hypothesis about the difference in average demand for tickets during different events</td>
-    <td>SQL, Python, Pandas, Matplotlib, SciPy, Statistical hypothesis testing</td>
+    <td><a href="https://github.com/AlekseySilin/Data-analytics/blob/main/RU/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%D0%B1%D1%89%D0%B5%D0%BF%D0%B8%D1%82%D0%B0%20%D0%B2%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%D0%B1%D1%89%D0%B5%D0%BF%D0%B8%D1%82%D0%B0%20%D0%B2%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5.ipynb">Исследование заведений общепита в г.Москве</a></td>
+    <td>Данный проект посвящен исследованию рынка общественного питания Москвы, проведенного в августе-сентябре 2022 года. В нем дана оценка текущему состоянию рынка, рассчитаны показатели и выявлены лидеры. Вторая часть исследования посвящена конкретно кофейням и в ней даны рекомендации по выбору помещения и открытию кофейни.
+Также в проекте построены картограммы расположения точек общепита на карте Москвы на основе знаний, полученных в ходе обучения.На основе исследования сделана краткая презентация.</td>
+    <td>python, pandas, matplotlib, seaborn, plotly, numpy, folium, json</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/13-classifying-comments">Classifying comments</a></td>
