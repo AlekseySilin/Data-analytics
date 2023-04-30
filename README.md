@@ -49,9 +49,12 @@
     <td>python, numpy, matplotlib, seaborn.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/10-the-algorithm-for-data-protection">The Algorithm for data protection</a></td>
-    <td>The personal information of the clients of the insurance company was protected (encrypted), using the data conversion method..</td>
-    <td>Pandas, Seaborn, Numpy, Sklearn, Machine Learning</td>
+    <td><a href="https://github.com/AlekseySilin/Data-analytics/blob/main/RU/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D1%85%20%D0%B8%D0%B3%D1%80/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D1%80%D1%8B%D0%BD%D0%BA%D0%B0_%D0%B8%D0%B3%D1%80_github.ipynb">Исследование рынка компьютерных игр</a></td>
+    <td>По заказу игрового интернет-магазина мной выявлены определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.
+В этом проекте я использую полученные знания по работе с таблицей данных, построению графиков, подтверждению или опровержению гипотез и построению прогнозов.
+К проекту также были мной написаны два парсера, дополняющие пропущенные данные. В сам проект они не включены и выложены отдельно, так как нужно их доработать.
+</td>
+    <td>pandas, matplotlib, seaborn, numpy, requests, re, scipy, sk.learn, beatiful soup</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/09-machine-learning-model-for-a-metalworking-enterprise">Machine Learning Model for a metalworking enterprise</a></td>
