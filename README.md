@@ -76,9 +76,10 @@
     <td>python, pandas, matplotlib, seaborn, numpy, scipy, sklearn.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/07-bank-churn-prediction">Bank Churn prediction</a></td>
-    <td>Analysis of the outflow of clients from the bank to select a strategy (retaining old clients or attracting new clients)</td>
-    <td>Machine Learning, Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Math</td>
+    <td><a href="https://github.com/AlekseySilin/Data-analytics/blob/main/RU/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%BE%D1%82%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20Elama/Elama_task.ipynb">Проект от компании Elama</a></td>
+    <td>Задачей проекта было исследование логов компании и получение ответов на вопросы по производительности их системы сбора информации.
+  Проект был моим первым опытом работы с SQL, поэтому на часть вопросов были получены правильные ответы, а на часть - нет.</td>
+    <td>python, SQLlite</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/06-classifying-profitable-plan-for-a-telecom-company">Classifying profitable plan for a telecom company</a></td>
