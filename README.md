@@ -37,9 +37,16 @@
     <td>python, pandas, SQL, seaborn, tableau, google slides.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/11-car-price-prediction">Car price prediction</a></td>
-    <td>Trained the Machine Learning model to determine the market value of the car.</td>
-    <td>Pandas, Sklearn, Numpy, LightGBM, Machine Learning, CatBoost, XGBoost</td>
+    <td><a href="https://github.com/AlekseySilin/Data-analytics/blob/main/RU/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.ipynb">Исследование рекламных метрик мобильного приложения</a></td>
+    <td>Мной изучены данные  мобильного приложения и получены ответы на следующие вопросы:
+ - откуда приходят пользователи и какими устройствами они пользуются,
+ - сколько стоит привлечение пользователей из различных рекламных каналов,
+ - сколько денег приносит каждый клиент,
+ - когда расходы на привлечение клиента окупаются,
+ - какие факторы мешают привлечению клиентов.
+ Проведена оценка мобильной рекламной кампании и сделаны рекомендации по ее улучшению.
+ </td>
+    <td>python, numpy, matplotlib, seaborn.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/10-the-algorithm-for-data-protection">The Algorithm for data protection</a></td>
