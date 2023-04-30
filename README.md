@@ -13,7 +13,7 @@
   </tr>
       <tr>
     <td><a href="https://github.com/AlekseySilin/Data-analytics/blob/main/RU/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%91%D0%94%20%D0%BA%D0%B8%D0%BD%D0%BE%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BA%D0%B8%D0%BD%D0%BE%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2_edited.ipynb">Исследование базы проката кинофильмов</a></td>
-    <td>Мною изучен рынок российского кинопроката и выявлены текущие тренды. Особое внимание уделено фильмам, которые получили 
+    <td>Мной изучен рынок российского кинопроката и выявлены текущие тренды. Особое внимание уделено фильмам, которые получили 
 государственную поддержку, насколько такие фильмы интересны  зрителю, приносит ли такая поддержка отдачу, выявлены студии и жанры, выгодные для такой поддержки. 
 </td>
     <td>pandas, matplotlib, seaborn, python</td>
@@ -57,10 +57,12 @@
     <td>pandas, matplotlib, seaborn, numpy, requests, re, scipy, sk.learn, beatiful soup</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/09-machine-learning-model-for-a-metalworking-enterprise">Machine Learning Model for a metalworking enterprise</a></td>
-    <td>Developed a model predicting the recovery rate of gold from gold ore.
-The model helped to optimize production in order not to launch a plant with unprofitable characteristics.</td>
-    <td>Pandas, Sklearn, Numpy, Seaborn, Matplotlib, Math, Machine Learning</td>
+    <td><a href="https://github.com/AlekseySilin/Data-analytics/blob/main/RU/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B0.ipynb">Исследование рынка недвижимости Санкт-Петербурга с помощью сервиса Яндекс.Недвижимость.</a></td>
+    <td>В моем распоряжении данные сервиса Яндекс Недвижимость — архив объявлений за несколько лет о продаже квартир в Санкт-Петербурге и соседних населённых пунктах.
+Моя задача — выполнить предобработку данных и изучить их, чтобы найти интересные особенности и зависимости, которые существуют на рынке недвижимости.
+Нужно рассчитать средние параметры выставляемых на продажу квартир и определить среднее время их продажи, рассчитать корреляцию между различными параметрами квартиры и ее ценой.
+</td>
+    <td>python, pandas, matplotlib, seaborn</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/08-development-of-new-oil-fields">Development of new oil fields</a></td>
