@@ -5,4 +5,4 @@
  - сформулированы основные выводы и разработаны рекомендации по повышению качества работы с клиентами и снижению их показателей оттока.      
 Для этого были применены модели на основе алгоритмов Logistic Regression, Random Forest, K-means.
 
-Инструменты: python, pandas, matplotlib, seaborn, numpy, scipy.
+Инструменты: python, pandas, matplotlib, seaborn, numpy, scipy, sklearn.
