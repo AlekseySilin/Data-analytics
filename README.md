@@ -82,9 +82,10 @@
     <td>python, SQLlite</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/06-classifying-profitable-plan-for-a-telecom-company">Classifying profitable plan for a telecom company</a></td>
-    <td>Built the first Machine Learning model for the classification problem, which finds a suitable tariff</td>
-    <td>Machine Learning, Pandas, Numpy, Python, Seaborn</td>
+    <td><a href="https://github.com/AlekseySilin/Data-analytics/blob/main/RU/Project%20X/X4%20datamining.ipynb">Project X4</a></td>
+    <td>Цель проекта - используя знания, полученные в ходе обучения в Яндекс.Практикум по темам "Собирание и парсинг данных в интернете" провести анализ содержимого любимой игры и построить графики и рейтинги кораблей. Также в проекте я оттачиваю навыки по владению другими инструментами, изученными в ходе обучения.
+  </td>
+    <td>pandas, beatifulsoup, python, matplotlib, seaborn.</td>
   </tr>
   <tr>
   <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/05-patterns-that-determine-the-success-of-game-platforms">Patterns that determine the success of game platforms.</a></td>
