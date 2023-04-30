@@ -65,9 +65,15 @@
     <td>python, pandas, matplotlib, seaborn</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/08-development-of-new-oil-fields">Development of new oil fields</a></td>
-    <td>Decided in which region to extract oil. Built a machine learning model that helped determine the region where mining will bring the most profit with the least risk of loss.</td>
-    <td>Pandas, Sklearn, Math, Numpy, Seaborn, Matplotlib, SciPy, Bootstrap, Machine Learning</td>
+    <td><a href="https://github.com/AlekseySilin/Data-analytics/blob/main/RU/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2.ipynb">Прогнозирование оттока клиентов</a></td>
+    <td>Мной провен анализ и подготовлен план действий по удержанию клиентов сети заведений фитнеса: </br>   
+ - cпрогнозирована вероятность оттока (на уровне следующего месяца) для каждого клиента;</br>
+ - сформированы типичные портреты клиентов, выделены группы и охарактеризованы их основные свойства; </br>
+ - проанализированы основные признаки, наиболее сильно влияющие на отток; </br>
+ - сформулированы основные выводы и разработаны рекомендации по повышению качества работы с клиентами и снижению их показателей оттока.   </br>   
+Для этого были применены модели на основе алгоритмов Logistic Regression, Random Forest, K-means.
+</td>
+    <td>python, pandas, matplotlib, seaborn, numpy, scipy, sklearn.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/07-bank-churn-prediction">Bank Churn prediction</a></td>
