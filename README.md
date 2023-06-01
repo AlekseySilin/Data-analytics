@@ -15,9 +15,15 @@
     <td>Мной были приоритизированы представленные гипотезы для увеличения выручки интернет-магазина и выбраны приоритетные, проведен АВ-тест и проанализированы его результаты.</td>
     <td>pandas, numpy, matplotlib, scipy, seaborn</td>
     <td>Завершен</td>      
-  </tr>
-      <tr>
-    <td><a href="https://github.com/AlekseySilin/Data-analytics/blob/main/RU/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%91%D0%94%20%D0%BA%D0%B8%D0%BD%D0%BE%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BA%D0%B8%D0%BD%D0%BE%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2_edited.ipynb">Исследование базы проката кинофильмов</a></td>
+  </tr>    
+  <tr>
+    <td><a href="https://github.com/AlekseySilin/Data-analytics/blob/main/RU/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%BC%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/space_brothers_github.ipynb">Разработка стратегии монетизации игры  "Space brothers"</td>
+    <td>В исследовании был проведен анализ данных, собранных за месячный период по мобильной игре "Space borthers", выявлены категории игроков, принимавших участие в игре, дана оценка их показателям. Также были рассчитаны показатели LTV, Retention, ROI проекта. На основе собранных данных были предложены 4 варианта монетизации приложения. Результаты исследования показаны на дашборде в Tableau и в презентации в формате pdf.</td>
+    <td>python, pandas, matplotlib, seaborn, numpy, scipy.</td>
+    <td>Завершен</td>      
+  </tr>      
+       <tr> 
+        <td><a href="https://github.com/AlekseySilin/Data-analytics/blob/main/RU/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%91%D0%94%20%D0%BA%D0%B8%D0%BD%D0%BE%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BA%D0%B8%D0%BD%D0%BE%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2_edited.ipynb">Исследование базы проката кинофильмов</a></td>
     <td>Мной изучен рынок российского кинопроката и выявлены текущие тренды. Особое внимание уделено фильмам, которые получили 
 государственную поддержку, насколько такие фильмы интересны  зрителю, приносит ли такая поддержка отдачу, выявлены студии и жанры, выгодные для такой поддержки. 
 </td>
