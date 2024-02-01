@@ -108,7 +108,7 @@
   <td> Завершен</td>
 </tr>   
   <tr>
-    <td><a href="[https://github.com/AlekseySilin/Data-analytics/blob/main/RU/Project%20X/X4%20datamining.ipynb">Project X4](https://github.com/AlekseySilin/Data-analytics/blob/main/RU/Project%20X/X4%20datamining_part2_ru.ipynb)</a></td>
+    <td><a href="https://github.com/AlekseySilin/Data-analytics/blob/main/RU/Project%20X/X4%20datamining_part2_ru.ipynb">Project X4</a></td>
     <td>Цель проекта - используя знания, полученные в ходе обучения в Яндекс.Практикум по темам "Собирание и парсинг данных в интернете" провести анализ содержимого любимой игры и построить графики и рейтинги кораблей. Также в проекте я оттачиваю навыки по владению другими инструментами, изученными в ходе обучения.
   </td>
     <td>pandas, beatifulsoup, python, matplotlib, seaborn.</td>
