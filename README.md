@@ -116,9 +116,10 @@
 </tr>
       <tr>
     <td><a href="https://github.com/AlekseySilin/Data-analytics/tree/main/RU/DataMiningGameObjects">Project Rogue Trader</a></td>
-    <td>Цель проекта - используя знания, полученные в ходе обучения в Яндекс.Практикум произвести датамайнинг игры WH40k:Rogue Trader и представить информацию о игровых объектах в виде google-таблицы с программно-заданным форматированием на русском и английском языках.      
-      Ссылка на полученный результат:       
-английская версия: https://docs.google.com/spreadsheets/d/1jCqrfdAKTl_cJ5WLyaMrT3H5qYc-f02y/edit?usp=drive_link&ouid=103252241908262672668&rtpof=true&sd=true  
+    <td>Цель проекта - используя знания, полученные в ходе обучения  произвести датамайнинг игры WH40k:Rogue Trader и представить информацию о игровых объектах в виде google-таблицы с программно-заданным форматированием на русском и английском языках.      
+      Ссылка на полученный результат:         
+русская версия версия:  
+      https://docs.google.com/spreadsheets/d/1vVNQtKtU71b7bovqJp_ATPUwCT4ZQVGU/edit?usp=drive_link&ouid=103252241908262672668&rtpof=true&sd=true  
   </td>
     <td>pandas,numpy, beatifulsoup, python, os, re, jsonpath_ng, openpyxl, xlsxwriter.</td>
   <td> Не завершен</td>
