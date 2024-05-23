@@ -121,7 +121,7 @@
       https://docs.google.com/spreadsheets/d/1vVNQtKtU71b7bovqJp_ATPUwCT4ZQVGU/edit?usp=drive_link&ouid=103252241908262672668&rtpof=true&sd=true  
   </td>
     <td>pandas,numpy, beatifulsoup, python, os, re, jsonpath_ng, openpyxl, xlsxwriter.</td>
-  <td> Не завершен</td>
+  <td> Завершен</td>
 </tr>   
 </table>
 
