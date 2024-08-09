@@ -108,7 +108,7 @@
   <td> Завершен</td>
 </tr>   
   <tr>
-    <td><a href="[https://github.com/AlekseySilin/Data-analytics/blob/main/RU/Project%20X/X4%20datamining_part2_ru.ipynb](https://github.com/AlekseySilin/Data-analytics/blob/main/RU/Ship%20rating%20for%20the%20game%20X4%20Foundations/X4_v700_part_1_en.ipynb)">Project X4</a></td>
+    <td><a href="https://github.com/AlekseySilin/Data-analytics/blob/main/RU/Ship%20rating%20for%20the%20game%20X4%20Foundations/X4_v700_part_1_en.ipynb">Project X4</a></td>
     <td>Цель проекта - используя знания, полученные в ходе обучения в Яндекс.Практикум, создать фреймфорк для извлечения необходимых данных из игры X4:Foundations, чтобы использовать их для оценки эффективности различных кораблей.
   </td>
     <td>pandas, beatifulsoup, python, matplotlib, numpy </td>
