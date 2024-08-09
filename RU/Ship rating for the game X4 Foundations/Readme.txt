@@ -1,6 +1,8 @@
 Introduction.
 This project is dedicated to the game X4 Foundations and its purpose is to estimate all ships player can access to and compute its rank.
-Used: Pandas, numpy, matplotlib, requests, beatifulsoup, tableau.
+
+Used: Pandas, numpy, matplotlib, requests, beatifulsoup, regular expressions, tableau.
+
 To show the ranks of ships I constructed dashboard on th  public Tableau server and you can see it on the link:
 https://public.tableau.com/views/TheshipratingforthegameX4Foundations/Shiprating?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
