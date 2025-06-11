@@ -10,7 +10,30 @@
     <td width=20%>Инструменты</td>
     <td width=5%>Статус проекта</td>
   </tr>
+       <tr>
+    <td><a href="https://github.com/AlekseySilin/Data-analytics/blob/main/RU/Ship%20rating%20for%20the%20game%20X4%20Foundations/X4_v700_part_1_en.ipynb">Project X4</a></td>
+    <td>Цель проекта - используя знания, полученные в ходе обучения в Яндекс.Практикум, создать фреймфорк для извлечения необходимых данных из игры X4:Foundations, чтобы использовать их для оценки эффективности различных кораблей.
+  </td>
+    <td>pandas, beatifulsoup, python, matplotlib, numpy, re </td>
+  <td> Завершен</td>
+</tr>
         <tr>
+    <td><a href="https://github.com/AlekseySilin/Data-analytics/blob/main/RU/Ship%20rating%20for%20the%20game%20X4%20Foundations/X4v7_v700_part2_en.ipynb">The rating of ships for the game X4:Foundations</a></td>
+    <td>Цель проекта - проранжировать корабли из игры X4:foundations на основе их базовых параметров и сделать дашборд.
+  </td>
+    <td>pandas, beatifulsoup, python, matplotlib, numpy, re, tableau </td>
+  <td> Завершен</td>
+</tr>
+      <tr>
+    <td><a href="https://github.com/AlekseySilin/Data-analytics/tree/main/RU/DataMiningGameObjects">Project Rogue Trader</a></td>
+    <td>Цель проекта - используя знания, полученные в ходе обучения  произвести датамайнинг игры WH40k:Rogue Trader и представить информацию о игровых объектах в виде google-таблицы с программно-заданным форматированием на русском и английском языках.      
+      Ссылка на полученный результат, русская версия:   
+      https://docs.google.com/spreadsheets/d/1gmWxZXe18mPxcyPpJEubZnm0pXm2Ztj4/edit?usp=sharing&ouid=103252241908262672668&rtpof=true&sd=true  
+  </td>
+    <td>pandas,numpy, beatifulsoup, python, os, re, jsonpath_ng, openpyxl, xlsxwriter.</td>
+  <td> Завершен</td>
+</tr>    
+  <tr>
     <td><a href="https://github.com/AlekseySilin/Data-analytics/blob/main/RU/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D1%80%D0%B5%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20AB-%D1%82%D0%B5%D1%81%D1%82%D0%B0/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D1%80%D0%B5%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20AB-%D1%82%D0%B5%D1%81%D1%82%D0%B0.ipynb">Интерпретация A/B тестов</a></td>
     <td>Мной были приоритизированы представленные гипотезы для увеличения выручки интернет-магазина и выбраны приоритетные, проведен АВ-тест и проанализированы его результаты.</td>
     <td>pandas, numpy, matplotlib, scipy, seaborn</td>
